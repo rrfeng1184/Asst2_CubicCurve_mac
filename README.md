@@ -3,7 +3,7 @@
 ## Getting started
 We will be distributing assignments with git. You can find the repository for this assignment at https://github.com/rrfeng1184/Asst2_CubicCurve_mac If you are unfamiliar with git, here is what you need to do to get the starter code:
 ```
-$ git clone https://github.com/CS6323utd/asst2_cubic_curve.git
+$ git clone https://github.com/rrfeng1184/Asst2_CubicCurve_mac.git
 ```
 This will create an asst2_CubicCurve_mac folder with all the source files.
 
